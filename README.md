@@ -3,10 +3,15 @@
 O App BrewShop é uma loja virtual de cervejas desenvolvida com as seguintes tecnologias:
 
 react
+
 redux
+
 redux-saga
+
 styled-components
+
 immer
+
 toastify
 
 O BrewShop consiste numa aplicação que te permite adicionar e remover cervejas em seu carrinho de compras com uma interface simples e intuitiva, que inclusive te indica se o seu produto favorito tem o estoque suficiente para sua bebilança.
