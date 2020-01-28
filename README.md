@@ -14,7 +14,7 @@ Antes de inicializar a aplicação é necessário instalar as dependencias do pr
 
 - Acesso ao diretorio do projeto
 
-cd myreads
+cd brewShop
 
 - instalação das dependencias
 
