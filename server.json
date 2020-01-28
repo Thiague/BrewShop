@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Eisenbahn",
+      "price": 3.28,
+      "image": "https://www.paodeacucar.com/img/uploads/1/106/621106x200x200.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Ditriguis",
+      "price": 6.92,
+      "image": "https://www.paodeacucar.com/img/uploads/1/585/619585x200x200.png"
+    },
+    {
+      "id": 3,
+      "title": "Madalena",
+      "price": 18.19,
+      "image": "https://www.paodeacucar.com/img/uploads/1/102/570102x200x200.png"
+    },
+    {
+      "id": 5,
+      "title": "Colorado",
+      "price": 4.89,
+      "image": "https://www.paodeacucar.com/img/uploads/1/573/631573x200x200.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bierbaum",
+      "price": 9.09,
+      "image": "https://www.paodeacucar.com/img/uploads/1/148/623148x200x200.png"
+    },
+    {
+      "id": 4,
+      "title": "Orchid",
+      "price": 11.89,
+      "image": "https://www.paodeacucar.com/img/uploads/1/234/622234x200x200.jpg"
+    }
+  ]
+}
